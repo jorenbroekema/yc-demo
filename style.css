@@ -1,0 +1,17 @@
+h1 {
+  color: skyblue;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+}
+
+.counter button {
+  height: 30px;
+  width: 30px;
+}
+
+#count {
+  padding: 0 20px;
+}
